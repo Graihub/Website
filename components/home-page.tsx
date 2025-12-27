@@ -8,7 +8,7 @@ interface HomePageProps {
 export function HomePage({ active }: HomePageProps) {
   const admins = [
     {
-      avatar: "/415b2bf9c76d4a0d88899ca74e46f8ef.png",
+      avatar: "/GRAI.png",
       name: "Grai",
       role: "YTB",
       quote: "Một Thằng YTb Quèn",
@@ -21,7 +21,7 @@ export function HomePage({ active }: HomePageProps) {
       waveClipPath: "polygon(0 40%, 100% 10%, 100% 100%, 0% 100%)",
     },
     {
-      avatar: "/anime-style-person.jpg",
+      avatar: "/Belbel.jpg",
       name: "BelBel",
       role: "Mod",
       quote: "Nhìn Đẹp Trai Mà Không Có Tiền",
