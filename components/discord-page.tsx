@@ -57,4 +57,4 @@ export function DiscordPage({ active }: DiscordPageProps) {
       </div>
     </section>
   )
-    }
+}
